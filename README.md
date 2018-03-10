@@ -1,0 +1,2 @@
+# InvestAI
+Personal Project
