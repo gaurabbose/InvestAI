@@ -10,8 +10,8 @@ This project is still in development. It can be run in R-Studio if you are curio
 
 ### Screenshot
 
-![Screenshot.png](https://raw.githubusercontent.com/gaurabbose/InvestAI/InvestAI_Screenshot.png)
+![Screenshot.png](InvestAI/InvestAI_Screenshot.png)
 
 ## Authors
 
-* **Gaurab Bose** - *LinkedIn* - [LinkedIn](https://www.linkedin.com/in/gbose)
+* **Gaurab Bose** - [LinkedIn](https://www.linkedin.com/in/gbose)
