@@ -209,20 +209,3 @@ stem_text<- function(text, language = "english", mc.cores = 1) {
   # return stemed text blocks
   return(unlist(x))
 }
-
-
-
-# what needs to be manipulated - weights (how big should they be 10s or 1000s.) AND refine number of clusters
-# give the cluster no. var a name - then increment it. do the whole calc, and see where you get two similar ones in the same place
-# all NA are replaced with 0 - affects results
-# end ETF sub
-
-#when upload, change path values
-
-# SPECIFY - IDEALLY CHOOSE 3-4 parameters, the lesser you choose, the easier it is to find a good match in the universe of existing ETFs
-# SHOW KNN SCORE HOW CLOSE A MATCH IT IS
-# INCORPORATE WEIGHTING
-# INCORPORATE equities
-
-# USER INPUTS HIS DATA AND THAT IS INCORPORATED INTO THE ALGO TO RECOMMEND STOCKS USING PREVIOUS DATA. THEN WHEN YOU SAVE
-# YOUR CHART, IT SAVES YOUR PARAMETERS v
