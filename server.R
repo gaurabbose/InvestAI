@@ -1,5 +1,11 @@
+#################
+#Server Logic
+#################
+
 library(shiny)
 source("code.R")
+
+
 # Define server logic for slider examples
 shinyServer(function(input, output) {
 

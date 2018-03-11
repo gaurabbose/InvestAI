@@ -1,3 +1,8 @@
+###########
+# UI Logic
+###########
+
+
 library(shiny)
 
 shinyUI(fluidPage(theme = "bootstrap.min.css",

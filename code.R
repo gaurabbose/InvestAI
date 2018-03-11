@@ -1,3 +1,7 @@
+####################
+# All Computations
+####################
+
 
 # Change to project directory
 df <- read.csv("/Users/Gaurab Bose/Desktop/Desktop/R Codes/InvestAI/data/ETFdb.csv", header=TRUE)
