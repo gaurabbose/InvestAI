@@ -10,7 +10,7 @@ This project is still in development. It can be run in R-Studio if you are curio
 
 ### Screenshot
 
-![Screenshot.png](images/InvestAI Screenshot.png)
+![Screenshot.png](images/screenshot.png)
 
 ## Authors
 
