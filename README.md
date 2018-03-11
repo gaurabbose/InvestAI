@@ -10,7 +10,7 @@ This project is still in development. It can be run in R-Studio if you are curio
 
 ### Screenshot
 
-![Screenshot.png](https://raw.githubusercontent.com/gaurabbose/InvestAI/InvestAI Screenshot.png)
+![Screenshot.png](https://raw.githubusercontent.com/gaurabbose/InvestAI/InvestAI_Screenshot.png)
 
 ## Authors
 
