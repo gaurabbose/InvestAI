@@ -1,6 +1,6 @@
  # InvestAI (Working build, but still in development)
 
-author: Gaurab Bose
+Author: Gaurab Bose
 
 This is a currently in-progress project that aims provide investors a tool to indentify the best ETFs (Exchange Traded Funds) to invest in, based on a variety of their investment preferences. It works more than just a mere filtering tool across a database of securities, because it weights relative importance of various investment criterion to the investor, and specifically prevents the presented data suggestions from being too narrow/broad, by adaptively adjusting the output to include the best set of suggestions, given the user's inputs. The tool using k-Means clustering and k-Nearest Neighbours classifications.
 
